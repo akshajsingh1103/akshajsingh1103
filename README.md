@@ -18,30 +18,28 @@
 ## 🌈 About Me
 
 - 🔭 Currently learning **DSA**, **UI/UX**, **Frontend**, **Machine Learning**
-- ✨ Obsessed with **clean design**, comfy setups, and aesthetic vibes  
-- 🎵 I sing, I gym, I design, I code — in that order lmao  
-- 🚀 Goal: Build a strong **portfolio**, **YouTube presence**, and **UI/UX career**
+- ✨ Obsessed with **clean design**, cozy aesthetics & neon pixels  
+- 🎵 I sing, I gym, I design, I code — in that order 😭✨  
+- 🚀 Goal: Build a strong **portfolio**, **YouTube presence** & **UI/UX career**
 - 💬 Ask me about **React, C++, Python, Design, DSA**
 
 ---
 
-## 🎨 My Tech Stack
+## 🎨 Tech Stack
 
+### 🧩 Languages
 <p align="center">
-  
-  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts" />
+</p>
 
-  <br/>
-
-  <!-- Frameworks -->
+### 🛠️ Frameworks
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
 
-  <br/>
-
-  <!-- Tools -->
+### ⚙️ Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,mysql" />
-
 </p>
 
 ---
@@ -49,41 +47,53 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/akshajsingh" target="_blank">
+
+  <a href="https://linkedin.com/in/akshajsingh" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://instagram.com/akshajsinghhh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
   <a href="mailto:singhaksh1103@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
+  <!-- LeetCode icon fixed -->
   <a href="https://leetcode.com/u/singhaksh136/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
+    <img height="50" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
   </a>
+
 </p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
-</picture>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=akshajsingh1103&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=akshajsingh1103&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎧 Vibe With Me
+
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7qkdao3yza2lpm46gfdetf4ii&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q7qkdao3yza2lpm46gfdetf4ii&cover_image=true&theme=novatorem&background_color=000000" />
 </p>
 
 ---
