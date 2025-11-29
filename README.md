@@ -71,15 +71,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://<your-project-name>.vercel.app/api?username=akshajsingh1103&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api?username=akshajsingh1103&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;
   <img height="160" src="https://streak-stats.demolab.com?user=akshajsingh1103&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🎧 Vibe With Me (Spotify)
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q7qkdao3yza2lpm46gfdetf4ii&cover_image=true&theme=novatorem" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q7qkdao3yza2lpm46gfdetf4ii" />
 </p>
 
