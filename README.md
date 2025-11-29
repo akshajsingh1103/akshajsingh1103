@@ -3,9 +3,10 @@
        src="https://github.com/akshajsingh1103/akshajsingh1103/releases/download/v1.0.0/banner.gif"
        alt="Banner"
        width="100%"
-       style="border-radius: 14px;" 
+       style="border-radius: 14px; box-shadow: 0 0 15px rgba(124,164,255,0.6);" 
   />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Akshaj</h1>
 <p align="center">
