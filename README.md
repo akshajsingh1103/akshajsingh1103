@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-       src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/main/banner%20(1).gif"
+       src="https://github.com/akshajsingh1103/akshajsingh1103/releases/download/v1.0.0/banner.gif"
        alt="Banner"
        width="100%"
        style="border-radius: 14px;" 
