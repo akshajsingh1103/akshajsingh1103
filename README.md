@@ -16,11 +16,12 @@
 ---
 
 ## 🌈 About Me
-- 🔭 Learning **DSA, UI/UX, Frontend, ML**
-- ✨ Love **clean design**, setups & aesthetic vibes  
-- 🎵 I sing • I gym • I design • I code  
-- 🚀 Goal: Build a **portfolio**, **YouTube**, and strong **UI/UX career**
-- 💬 Ask me about **React, C++, Python, Design, DSA**
+
+CS undergrad with a thing for clean interfaces, balanced layouts, and code that behaves.  
+I spend most of my time learning **DSA**, **UI/UX**, **Frontend**, and bits of **ML**.  
+
+Outside all that, I lift, sing, and sketch — the usual creative chaos that keeps life interesting.  
+I like mixing logic with aesthetics, wherever I can.
 
 ---
 
@@ -56,7 +57,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## HERE IT GOES AGAIN
 
 <p align="center">
   <picture>
@@ -66,21 +67,4 @@
   </picture>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats-godkingjay.vercel.app/api?username=akshajsingh1103&show_icons=true&theme=tokyonight" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://streak-stats.demolab.com?user=akshajsingh1103&theme=tokyonight" />
-</p>
-
----
-
-## 🎧 Vibe With Me (Spotify)
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q7qkdao3yza2lpm46gfdetf4ii" />
-</p>
 
