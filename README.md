@@ -1,9 +1,9 @@
 <p align="center">
   <img 
-       src="https://github.com/akshajsingh1103/akshajsingh1103/releases/download/v1.0.0/banner.gif"
+       src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/main/banner%20(1).gif"
        alt="Banner"
        width="100%"
-       style="border-radius: 14px; box-shadow: 0 0 15px rgba(124,164,255,0.6);" 
+       style="border-radius: 14px;" 
   />
 </p>
 
