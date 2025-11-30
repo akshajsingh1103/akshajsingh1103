@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi 👋, I'm Akshaj</h1>
 <p align="center">
-  <b>19 • CS Undergrad • UI/UX + Web Dev • Competitive Programmer</b><br/>
+  <b>19 • CS Undergrad • UI/UX • ML</b><br/>
   Dreamer • Creative • Pixel-aesthetic enjoyer • Learning DSA & ML
 </p>
 
