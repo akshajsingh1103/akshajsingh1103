@@ -40,35 +40,35 @@ I like mixing logic with aesthetics, wherever I can.
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding: 10px; border: none;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFpbTR6anJpMDMxZ2p2eTR6ZzliY3BudzJkcmNrM3RwbjhjczUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnUatAYWMEMvmiwsyx/giphy.gif" width="60" alt="funny gif" />
+    <td align="center" style="padding: 15px; border: none;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFpbTR6anJpMDMxZ2p2eTR6ZzliY3BudzJkcmNrM3RwbjhjczUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnUatAYWMEMvmiwsyx/giphy.gif" width="100" alt="funny gif" />
     </td>
     <td align="center" style="padding: 10px; border: none;">
       <a href="https://linkedin.com/in/akshajsingh" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /><br />
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /><br />
         LinkedIn
       </a>
     </td>
     <td align="center" style="padding: 10px; border: none;">
       <a href="https://instagram.com/akshajsinghhh" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /><br />
+        <img src="https://skillicons.dev/icons?i=instagram" width="60" alt="Instagram" /><br />
         Instagram
       </a>
     </td>
     <td align="center" style="padding: 10px; border: none;">
       <a href="mailto:singhaksh1103@gmail.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /><br />
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Email" /><br />
         Email
       </a>
     </td>
     <td align="center" style="padding: 10px; border: none;">
       <a href="https://leetcode.com/u/singhaksh136/" target="_blank">
-        <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" alt="LeetCode" /><br />
+        <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="60" alt="LeetCode" /><br />
         LeetCode
       </a>
     </td>
-    <td align="center" style="padding: 10px; border: none;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFpbTR6anJpMDMxZ2p2eTR6ZzliY3BudzJkcmNrM3RwbjhjczUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnUatAYWMEMvmiwsyx/giphy.gif" width="60" alt="funny gif" />
+    <td align="center" style="padding: 15px; border: none;">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFpbTR6anJpMDMxZ2p2eTR6ZzliY3BudzJkcmNrM3RwbjhjczUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnUatAYWMEMvmiwsyx/giphy.gif" width="100" alt="funny gif" />
     </td>
   </tr>
 </table>
