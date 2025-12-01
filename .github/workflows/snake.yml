@@ -1,34 +1,29 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write     # IMPORTANT: allows workflow to push to output branch
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: akshajsingh1103
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+            dist/github-snake-neon.svg?palette=neon
+      - name: Upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake
+          path: dist
+      - name: Push to output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
