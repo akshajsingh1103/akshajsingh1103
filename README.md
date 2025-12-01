@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Akshaj" alt="Typing Name"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=60&lines=Hi+,+I'm+Akshaj" alt="Typing Name"/>
 </p>
 
 <p align="center">
