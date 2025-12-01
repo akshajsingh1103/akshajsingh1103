@@ -60,7 +60,7 @@ I like mixing logic with aesthetics, wherever I can.
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://leetcode.com/u/singhaksh136/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" width="40" alt="LeetCode" /><br />
+        <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" alt="LeetCode" /><br />
         LeetCode
       </a>
     </td>
