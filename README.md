@@ -64,7 +64,7 @@ I like mixing logic with aesthetics, wherever I can.
 ![Most Used Languages](https://raw.githubusercontent.com/akshajsingh1103/github-stats-transparent/output/generated/languages.svg)
 
 </a>
----
+
 
 ## HERE IT GOES AGAIN
 
