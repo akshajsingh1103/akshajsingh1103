@@ -36,25 +36,14 @@ I like mixing logic with aesthetics, wherever I can.
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave gif" style="vertical-align:middle" />
 
-<p align="center" style="margin-top: 20px;">
-  <a href="https://linkedin.com/in/akshajsingh" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  
-  <a href="https://instagram.com/akshajsinghhh" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-
-  <a href="mailto:singhaksh1103@gmail.com" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://leetcode.com/u/singhaksh136/" target="_blank" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-  </a>
-</p>
+| Platform    | Link                                                                                  | Icon                                                                                         |
+|-------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| LinkedIn    | [akshajsingh](https://linkedin.com/in/akshajsingh)                                   | <img src="https://skillicons.dev/icons?i=linkedin" width="24" alt="LinkedIn" />              |
+| Instagram   | [akshajsinghhh](https://instagram.com/akshajsinghhh)                                 | <img src="https://skillicons.dev/icons?i=instagram" width="24" alt="Instagram" />            |
+| Email       | [singhaksh1103@gmail.com](mailto:singhaksh1103@gmail.com)                            | <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Email" />                    |
+| LeetCode    | [singhaksh136](https://leetcode.com/u/singhaksh136/)                                | <img src="https://skillicons.dev/icons?i=leetcode" width="24" alt="LeetCode" style="filter: invert(1);" /> |
 
 ---
 ### 📊 Github Stats
