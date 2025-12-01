@@ -36,7 +36,7 @@ I like mixing logic with aesthetics, wherever I can.
 
 ---
 
-## 🔗 Connect With Me <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="32" alt="funny gif" style="vertical-align:middle" />
+## 🔗 Connect With Me <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFpbTR6anJpMDMxZ2p2eTR6ZzliY3BudzJkcmNrM3RwbjhjczUxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PnUatAYWMEMvmiwsyx/giphy.gif" width="32" alt="funny gif" style="vertical-align:middle" />
 
 <table align="center">
   <tr>
