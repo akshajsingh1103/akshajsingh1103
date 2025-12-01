@@ -8,7 +8,10 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Akshaj</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=60&lines=Hi+👋,+I'm+Akshaj" alt="Typing Name"/>
+</p>
+
 <p align="center">
   <b>19 • CS Undergrad • UI/UX • ML</b><br/>
   Dreamer • Creative • Pixel-aesthetic enjoyer • Learning DSA & ML
