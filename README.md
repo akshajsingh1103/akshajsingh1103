@@ -10,10 +10,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Akshaj!;CS+Undergrad+%7C+UI%2FUX+%7C+ML&cursor=true" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Akshaj!&cursor=true" 
     alt="Typing Animation"
 />
 </p>
+
 
 <p align="center">
   <b>19 • CS Undergrad • UI/UX • ML</b><br/>
@@ -85,11 +86,11 @@ I like mixing logic with aesthetics, wherever I can.
 ## HERE IT GOES AGAIN
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake.svg" />
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/akshajsingh1103/akshajsingh1103/output/github-snake-neon.svg" 
+    alt="Neon Snake Animation"
+  />
 </p>
+
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
