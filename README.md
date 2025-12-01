@@ -76,4 +76,4 @@ I like mixing logic with aesthetics, wherever I can.
   </picture>
 </p>
 
-
+> *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
