@@ -9,11 +9,12 @@
 
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Akshaj&cursor=|&repeat=false" 
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Akshaj&cursor=|&repeat=true"
     alt="Typing Animation"
-/>
+  />
 </p>
+
 
 
 
