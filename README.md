@@ -36,23 +36,32 @@ I like mixing logic with aesthetics, wherever I can.
 
 ---
 
-## 🔗 Connect With Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave gif" style="vertical-align:middle" />
+## 🔗 Connect With Me <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="32" alt="funny gif" style="vertical-align:middle" />
 
-| Platform    | Link                                                                                  | Icon                                                                                         |
-|-------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| LinkedIn    | [akshajsingh](https://linkedin.com/in/akshajsingh)                                   | <img src="https://skillicons.dev/icons?i=linkedin" width="24" alt="LinkedIn" />              |
-| Instagram   | [akshajsinghhh](https://instagram.com/akshajsinghhh)                                 | <img src="https://skillicons.dev/icons?i=instagram" width="24" alt="Instagram" />            |
-| Email       | [singhaksh1103@gmail.com](mailto:singhaksh1103@gmail.com)                            | <img src="https://skillicons.dev/icons?i=gmail" width="24" alt="Email" />                    |
-| LeetCode    | [singhaksh136](https://leetcode.com/u/singhaksh136/)                                | <img src="https://skillicons.dev/icons?i=leetcode" width="24" alt="LeetCode" style="filter: invert(1);" /> |
+<p align="center">
 
----
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/akshajsingh1103/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/akshajsingh1103/github-stats-transparent/output/generated/languages.svg)
-
+<a href="https://linkedin.com/in/akshajsingh" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn" /><br/>
+  LinkedIn
 </a>
+
+<a href="https://instagram.com/akshajsinghhh" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram" /><br/>
+  Instagram
+</a>
+
+<a href="mailto:singhaksh1103@gmail.com" target="_blank" style="margin: 0 12px;">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email" /><br/>
+  Email
+</a>
+
+<a href="https://leetcode.com/u/singhaksh136/" target="_blank" style="margin: 0 12px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.svg" width="40" alt="LeetCode" /><br/>
+  LeetCode
+</a>
+
+</p>
+
 
 
 ## HERE IT GOES AGAIN
