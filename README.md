@@ -82,14 +82,17 @@ I like mixing logic with aesthetics, wherever I can.
   </tr>
 </table>
 
+---
+
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/akshajsingh1103/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/akshajsingh1103/github-stats-transparent/output/generated/languages.svg)
 
+---
 
-## HERE IT GOES AGAIN
+## HES SO HUNGRY AH
 
 <p align="center">
   <picture>
