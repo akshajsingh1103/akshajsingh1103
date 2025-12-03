@@ -103,3 +103,15 @@ I like mixing logic with aesthetics, wherever I can.
 </p>
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
+> <p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/bluntparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/chillparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sadparrot.gif" width="40" />
+</p>
+
