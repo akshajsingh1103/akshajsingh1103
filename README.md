@@ -103,10 +103,6 @@ I like mixing logic with aesthetics, wherever I can.
 </p>
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
-<p align="center">
-  <img src="https://c.tenor.com/2OrMUNqnmhEAAAAd/party-parrot-rainbow.gif" width="600" alt="Here are some PARTY PARROTS 🦜🎉" />
-</p>
-
 
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32" />
