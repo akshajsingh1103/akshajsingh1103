@@ -115,8 +115,8 @@ I like mixing logic with aesthetics, wherever I can.
   <img src="https://cultofthepartyparrot.com/parrots/hd/astronautparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/chefkissparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/shufflepartyparrot" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/chillparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/revolutionparrot" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/sneezyparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hmmparrot.gif" width="32" />
