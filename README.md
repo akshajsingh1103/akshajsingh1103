@@ -131,8 +131,8 @@ I like mixing logic with aesthetics, wherever I can.
   <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/croissantparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pythonparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/matrixparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/mateparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif" width="32" />
@@ -142,11 +142,11 @@ I like mixing logic with aesthetics, wherever I can.
   <img src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/marshmallowparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/tacoparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/popcornparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/redbullparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/coffeeparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/margaritaparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/michaeljacksonparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/wineparrot.gif" width="32" />
 </p>
 
