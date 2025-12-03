@@ -104,6 +104,34 @@ I like mixing logic with aesthetics, wherever I can.
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 <p align="center">
+  <span style="
+    display: inline-block;
+    font-size: 32px;
+    font-weight: 700;
+    background: linear-gradient(90deg, #ff004c, #ff8a00, #ffe600, #00ff6e, #00c3ff, #8a2eff, #ff00e1);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: hueShift 3s linear infinite, jiggle 0.25s infinite;
+  ">
+    Here are some PARTY PARROTS 🦜🎉
+  </span>
+</p>
+
+<!-- Inline keyframes trick (GitHub-safe) -->
+<p hidden>
+  <style>
+    @keyframes jiggle {
+      0% { transform: translate(0px, 0px); }
+      50% { transform: translate(1px, -1px); }
+      100% { transform: translate(0px, 0px); }
+    }
+    @keyframes hueShift {
+      0% { filter: hue-rotate(0deg); }
+      100% { filter: hue-rotate(360deg); }
+    }
+  </style>
+</p>
+<p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="32" />
