@@ -106,20 +106,20 @@ I like mixing logic with aesthetics, wherever I can.
 <p align="center">
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="40" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/aussieparrot.gif" width="40" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/middleparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/parentparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/beretparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/nyanparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/explodyparrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/bluntparrot.gif" width="40" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/partyblob.gif" width="40" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/chillparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/discoparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/thumbsupparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/ceilingparrot.gif" width="40" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="40" />
 </p>
+
 
 
