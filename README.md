@@ -107,15 +107,15 @@ I like mixing logic with aesthetics, wherever I can.
   <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/fastparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/portalparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/vikingparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalblueparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalorangeparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/astronautparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/chefkissparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/clownparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/shufflepartyparrot" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/chillparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/boredparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/confusedparrot.gif" width="32" />
@@ -129,18 +129,18 @@ I like mixing logic with aesthetics, wherever I can.
   <img src="https://cultofthepartyparrot.com/parrots/hd/chefparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hackerparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/nodeparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/reactparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/croissantparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/gothparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/pythonparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/matrixparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/musicparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/headingparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/balconyparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pizzaparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/jediparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/bobaparrot.gif" width="32" />
-  <img src="https://cultofthepartyparrot.com/parrots/hd/icecreamparrot.gif" width="32" />
+  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/marshmallowparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/tacoparrot.gif" width="32" />
   <img src="https://cultofthepartyparrot.com/parrots/hd/popcornparrot.gif" width="32" />
