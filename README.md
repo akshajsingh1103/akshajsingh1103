@@ -59,12 +59,6 @@ I like mixing logic with aesthetics, wherever I can.
       </a>
     </td>
     <td align="center" style="padding: 10px; border: none;">
-      <a href="https://instagram.com/akshajsinghhh" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="60" alt="Instagram" /><br />
-        Instagram
-      </a>
-    </td>
-    <td align="center" style="padding: 10px; border: none;">
       <a href="mailto:singhaksh1103@gmail.com" target="_blank">
         <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Email" /><br />
         Email
